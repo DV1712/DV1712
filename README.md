@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing MS in Computer Science
 - 💞️ I’m looking to collaborate on any relevant development projects
 - 📫 How to reach me ->
-email = divyansh.vaidya1@gmail.com
+email = divyansh.vaidya1@gmail.com | 
 linkedIn = www.linkedin.com/in/divyanshvaidya
 
 <!---
