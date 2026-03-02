@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DV1712
-- 👀 I’m interested in Python Programming, Web Development and Machine Learning
+- 👀 I’m interested in Python Programming, Web Development, Data Engineering, Machine Learning and AI
 - 🌱 I’m currently pursuing MS in Computer Science
-- 💞️ I’m looking to collaborate on any relevant development projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ->
 email: divyansh.vaidya1@gmail.com | 
 linkedIn: www.linkedin.com/in/divyanshvaidya
